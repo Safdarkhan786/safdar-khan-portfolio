@@ -1,0 +1,21 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sk-gold" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8F9FA" />
+      <stop offset="28%" stop-color="#F3E5AB" />
+      <stop offset="68%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#8A6D1B" />
+    </linearGradient>
+    <linearGradient id="sk-border" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F3E5AB" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#D4AF37" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#A8B2C1" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="14" fill="#06070A" stroke="url(#sk-border)" stroke-width="2" />
+  <rect x="7.5" y="7.5" width="49" height="49" rx="10" stroke="#F3E5AB" stroke-opacity="0.16" stroke-width="1" />
+  <path d="M29.5 21 H19.5 C17.3 21 15.8 22.4 15.8 24.5 C15.8 26.5 17.2 27.8 19.4 28.4 L26.2 30.2 C29.3 31.0 31.0 33.0 31.0 36.2 C31.0 39.8 28.3 42.5 24.2 42.5 H15.2" stroke="url(#sk-gold)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M35.5 20.5 V42.5 M48.8 20.5 L37.2 31.5 L49.2 42.5" stroke="url(#sk-gold)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="32" cy="12.5" r="1.5" fill="#F3E5AB" />
+</svg>
+
